@@ -1,24 +1,22 @@
-# real-world-vue
+# Title
 
-## Project setup
-```
-npm install
-```
+Code for Vue Mastery's:
+Real World Vue
+<br>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Overview
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Step by step lessons using Vue3.
+Building out a basic static site
+<br>
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Credit
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Files provided by @Code-Pop
+
+<br>
+
+# Demo
+
+Static site served on @render
+[Link](https://real-world-vue-3-1nfk.onrender.com/)
